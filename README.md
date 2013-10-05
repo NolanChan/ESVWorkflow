@@ -1,5 +1,5 @@
-ESVBibleWorkflow V 0.2
-================
+ESVBibleWorkflow V 0.3
+=======================
 
 The verse lookup part of this workflow copies verse(s) from the online ESV bible web service to your clipboard
 
@@ -21,5 +21,11 @@ This should lead to a dropdown menu of verses that contain this keyword phrase. 
 
 Please email me if you have any feedback/questions/suggestions!
 
+*********
+BUG LIST
+*********
 
+Verses with Parentheses do not display properly because I decided to use Parentheses as my delimiters
 
+---Not a bug but...--- 
+Verses with nice formatting, like the Psalms, will not show up formatted when copied to the clipboard because the ESV Online Bible does not return the verses as formatted in the first place
