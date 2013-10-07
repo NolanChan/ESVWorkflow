@@ -12,10 +12,16 @@ I'll be adding a good amount of options and flexibility to this app in the futur
 --- Book Chapter:Verse ---
 
 Ex: ESV James
+
 EX: ESV James 1:1
+
 EX: ESV James 1:1-10
 
-This should lead to a notification stating the verse, and also the verse should be copied to the clipboard
+This should lead to a notification stating the verse, and also the verse copied to the clipboard should look like:
+****
+James 1:1 
+James, a servant of God and of the Lord Jesus Christ, To the twelve tribes in the Dispersion: Greetings.
+****
 
 2) To use the keyword lookup utility, type in 'ESVS' at the Alfred Prompt, with any number of word arguments:
 
@@ -25,7 +31,7 @@ Ex: ESVS Before the Foundation
 
 This should lead to a dropdown menu of verses that contain this keyword phrase. At the moment, words inside words will trigger a verse as well. 
 
-Ex: wept IN swept
+Ex: 'wept' will trigger 'swept'
 
 Please email me if you have any feedback/questions/suggestions!
 
