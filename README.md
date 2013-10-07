@@ -11,7 +11,9 @@ I'll be adding a good amount of options and flexibility to this app in the futur
 
 --- Book Chapter:Verse ---
 
-Ex: ESV John 1:1
+Ex: ESV James
+EX: ESV James 1:1
+EX: ESV James 1:1-10
 
 This should lead to a notification stating the verse, and also the verse should be copied to the clipboard
 
