@@ -39,7 +39,5 @@ Please email me if you have any feedback/questions/suggestions!
 BUG LIST
 *********
 
-Verses with Parentheses do not display properly because I decided to use Parentheses as my delimiters
-
 ---Not a bug but...--- 
 Verses with nice formatting, like the Psalms, will not show up formatted when copied to the clipboard because the ESV Online Bible does not return the verses as formatted in the first place
