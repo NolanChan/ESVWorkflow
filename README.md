@@ -1,11 +1,10 @@
 ESVBibleWorkflow V 0.3
 =======================
 
-The verse lookup part of this workflow copies verse(s) from the online ESV bible web service to your clipboard
-
-The keyword lookup displays verses from the bible that contain your keyword, and you can choose which verse to copy to the clipboard
-
-I'll be adding a good amount of options and flexibility to this app in the future.
+This workflow can do three things at the moment:
+1) Search the ESV with verse reference
+2) Search the ESV for all verses containing Keyword
+3) Search the NASB with verse reference
 
 1) To use the verse lookup utility, type in 'ESV' at the Alfred Prompt, with arguments: 
 
