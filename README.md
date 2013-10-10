@@ -1,10 +1,15 @@
-ESVBibleWorkflow V 0.3
+ESVBibleWorkflow V 0.4
 =======================
 
 This workflow can do three things at the moment:
+
 1) Search the ESV with verse reference
+
 2) Search the ESV for all verses containing Keyword
+
 3) Search the NASB with verse reference
+
+----------
 
 1) To use the verse lookup utility, type in 'ESV' at the Alfred Prompt, with arguments: 
 
@@ -17,10 +22,11 @@ EX: ESV James 1:1
 EX: ESV James 1:1-10
 
 This should lead to a notification stating the verse, and also the verse copied to the clipboard should look like:
-****
+
+.........
 James 1:1 
 James, a servant of God and of the Lord Jesus Christ, To the twelve tribes in the Dispersion: Greetings.
-****
+.........
 
 2) To use the keyword lookup utility, type in 'ESVS' at the Alfred Prompt, with any number of word arguments:
 
